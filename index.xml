@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/</link>
+    <description>Recent content on PHI 14f</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://chreliot.github.io/phi14f/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
