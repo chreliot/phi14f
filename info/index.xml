@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content on PHI 14f</title>
-    <link>https://chreliot.github.io/phi14f/</link>
-    <description>Recent content in Content on PHI 14f</description>
+    <title>Infos on PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/info/</link>
+    <description>Recent content in Infos on PHI 14f</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2020 15:26:52 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
     
-	<atom:link href="https://chreliot.github.io/phi14f/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chreliot.github.io/phi14f/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

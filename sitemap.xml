@@ -3,11 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chreliot.github.io/phi14f/</loc>
+    <loc>https://chreliot.github.io/phi14f/schedule/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/about/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/tags/assignments/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/tags/info/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/info/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/info/interpreting-grades/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://chreliot.github.io/phi14f/tags/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chreliot.github.io/phi14f/info/participation-rubric/</loc>
+    <lastmod>2020-08-23T16:03:48-04:00</lastmod>
   </url>
   
 </urlset>

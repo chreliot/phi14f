@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>assignments on PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/tags/assignments/</link>
+    <description>Recent content in assignments on PHI 14f</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://chreliot.github.io/phi14f/tags/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interpreting Grades</title>
+      <link>https://chreliot.github.io/phi14f/info/interpreting-grades/</link>
+      <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/info/interpreting-grades/</guid>
+      <description>This note about grading and interpreting grades just adds some detail to what the course syllabus already says about grading.
+ 4-point scale Writing assignment grades Test grades Overall course grades    4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):</description>
+    </item>
+    
+  </channel>
+</rss>

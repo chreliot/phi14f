@@ -6,9 +6,28 @@
     <description>Recent content in Tags on PHI 14f</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jan 2020 19:55:28 -0400</lastBuildDate>
     
 	<atom:link href="https://chreliot.github.io/phi14f/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>assignments</title>
+      <link>https://chreliot.github.io/phi14f/tags/assignments/</link>
+      <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/tags/assignments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>info</title>
+      <link>https://chreliot.github.io/phi14f/tags/info/</link>
+      <pubDate>Sun, 26 Jan 2020 19:55:28 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/tags/info/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
