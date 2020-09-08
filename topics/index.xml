@@ -6,10 +6,19 @@
     <description>Recent content in Topics on PHI 14f</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 12:08:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 11:55:32 -0400</lastBuildDate>
     
 	<atom:link href="https://chreliot.github.io/phi14f/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topic 2: Questions about the Meaning of Life</title>
+      <link>https://chreliot.github.io/phi14f/topics/meaning/</link>
+      <pubDate>Tue, 08 Sep 2020 11:55:32 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/topics/meaning/</guid>
+      <description>In Plato&amp;rsquo;s Gorgias we encountered two conflicting versions of the meaning of life, and we discussed philosophy as an approach to questions. Now we turn our focus to what&amp;rsquo;s puzzling about the meaning of life. We can ask “What&amp;rsquo;s the meaning of life?” But that is just the opening move. What are the other questions we might want to ask in order to begin to answer that question? When we face difficult problems, often understanding the question is half the battle!</description>
+    </item>
     
     <item>
       <title>Topic 1: Philosophy</title>
