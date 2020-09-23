@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/assignments/</link>
+    <description>Recent content in Assignments on PHI 14f</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 12:17:01 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14f/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 1</title>
+      <link>https://chreliot.github.io/phi14f/assignments/assignment-1/</link>
+      <pubDate>Wed, 23 Sep 2020 12:17:01 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/assignments/assignment-1/</guid>
+      <description>Your main task is to identify and reconstruct an argument about the meaning of life and then critically evaluate it.
+Based on how well you think it works for this task, choose one of the following: (1) the Steve Jobs speech, or (2) a different speech or text you&amp;rsquo;ve found and cleared with me in advance. That will be your “source text.”
+From your source text, reconstruct a statement of the form “The meaning of life is …” or “The way to live is ….</description>
+    </item>
+    
+  </channel>
+</rss>
