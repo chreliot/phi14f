@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on PHI 14f</title>
+    <link>https://chreliot.github.io/phi14f/tests/</link>
+    <description>Recent content in Tests on PHI 14f</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2020 14:14:07 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi14f/tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 1 Questions</title>
+      <link>https://chreliot.github.io/phi14f/tests/test-1-questions/</link>
+      <pubDate>Tue, 13 Oct 2020 14:14:07 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi14f/tests/test-1-questions/</guid>
+      <description>Here are the questions for the first test. The test will be from a subset of these questions. For each question, write at least five sentences (minimum) and perhaps a bit more than five. Write concisely and informatively. If there is more than one part to the question, make sure to answer all the parts.
+ What is Blackburn&amp;rsquo;s “middle-ground” defense of philosophy. What is Blackburn&amp;rsquo;s “low-ground” defense of philosophy. In Apology, what does Socrates say is the greatest good for a human being (“a man”), and what does he say that supports that?</description>
+    </item>
+    
+  </channel>
+</rss>
